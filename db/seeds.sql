@@ -1,3 +1,3 @@
-INSERT INTO scoops (name) VALUES ('vanilla', true);
-INSERT INTO scoops (name) VALUES ('chocolate', true);
-INSERT INTO scoops (name) VALUES ('strawberry', true);
+INSERT INTO icecream (name) VALUES ('vanilla', true);
+INSERT INTO icecream (name) VALUES ('chocolate', true);
+INSERT INTO icecream (name) VALUES ('strawberry', true);
